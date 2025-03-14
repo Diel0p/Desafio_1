@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "techstore", "techstore.dtproj", "{037A883E-9BA0-7838-BBF3-6C20CE6FB79E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037A883E-9BA0-7838-BBF3-6C20CE6FB79E}.Development|Default.ActiveCfg = Development
+		{037A883E-9BA0-7838-BBF3-6C20CE6FB79E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FF19267-123D-4DE1-8913-205CFCB691EE}
+	EndGlobalSection
+EndGlobal
